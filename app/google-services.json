@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731914974112",
+    "firebase_url": "https://loginayudantia.firebaseio.com",
+    "project_id": "loginayudantia",
+    "storage_bucket": "loginayudantia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731914974112:android:7738fe742be9f442",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731914974112-c1ho31bdvpnhtv9f3ejs1mgntnsfnr2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "b015500a94fe2007afaeb3dda77162f414e101a6"
+          }
+        },
+        {
+          "client_id": "731914974112-18dkf4ep82qq806ffrhdis7ad53g0084.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUXU4F6NRmC5xhTp-MOtl-TawPQNsgns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731914974112-18dkf4ep82qq806ffrhdis7ad53g0084.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
